@@ -10,6 +10,8 @@ DROP TABLE IF EXISTS PLANE;
 
 
 
+
+
 /* Create Tables */
 
 CREATE TABLE AIRPORT
